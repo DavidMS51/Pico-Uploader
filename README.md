@@ -7,4 +7,4 @@ Uploader board in Intel Hex formats, by draging and dropping the hex files to th
 Written instructions and a flow chart describing operaion are available here
 Note the s/w is functional, it does minimal checking for errors - for instance it assumes a valid Intel Hex file format
 Core elements of the s/w use original work by - SiriusHardware [https://www.vintage-radio.net/forum/member.php?u=26059]
-The board can be used connected to a computer or standalone, allowing to transfer previusoly uploaded file to the MK14
+The board can be used connected to a computer or standalone, allowing transfer previusoly uploaded file to the MK14
